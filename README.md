@@ -1,6 +1,6 @@
 # Instacart_Python | Online Grocery Store Analysis
 ## Overview
-The Instacart stakeholders are interested in the variety of customers in their database along with their purchasing behaviors to inform their targeted marketing strategy
+The Instacart stakeholders are interested in the variety of customers in their database along with their purchasing behaviors to inform their targeted marketing strategy.
 
 The final project [here](https://docs.google.com/spreadsheets/d/1dmDrzvAFO_2wzxRgjOKnM9A7KtKhe32P/edit?usp=sharing&ouid=104785883593149923390&rtpof=true&sd=true)
 ## Data
