@@ -16,10 +16,10 @@ The analysis was done using four data sets that included information about custo
 
 - **Merging Datasets**: Prepared and curated datasets for effective merging, validated the success of data merges, and archived the final merge in a pkl file format.
 
-- **Exploratory Analysis**: Unearthed insights through comprehensive exploratory analysis, encompassing essential descriptive statistics (max/min, quartiles, mean, standard deviation), data distribution visualizations (histograms, scatterplots), and data distribution presentations using bar and line charts.
+- **Exploratory Analysis**: Unearthed insights through comprehensive exploratory analysis, encompassing essential descriptive statistics, and data distribution visualizations.
 
 - **Data Transformation**: Created novel variables by grouping data based on user, order, and department, enabling in-depth exploration and analysis at different levels. Validated the integrity of newly derived data using crosstabs and value counts.
 
-- **Data Visualization**: Leveraged Matplotlib library to craft visually compelling representations, including histograms, scatterplots, line charts, pie charts, and various bar chart configurations (vertical, horizontal, stacked, and 100% stacked).
+- **Data Visualization**: Leveraged Matplotlib and Seaborn libraries to craft visually compelling representations, including histograms, scatterplots, line charts, pie charts, and various bar chart configurations (vertical, horizontal, stacked, and 100% stacked).
 
-- **Reporting**: Delivered valuable insights through an Excel file that not only addressed inquiries from the sales and marketing teams but also documented the entire data processing workflow. This documentation covered data population statistics, data consistency checks, data transformation, the creation of new columns to ensure transparency and reproducibility, and visualizations.
+- **Reporting**: Delivered valuable insights through an Excel report that not only addressed inquiries from the sales and marketing teams but also documented the entire data processing workflow. This documentation covered data population statistics, data consistency checks, data transformation, the creation of new columns to ensure transparency and reproducibility, and visualizations.
